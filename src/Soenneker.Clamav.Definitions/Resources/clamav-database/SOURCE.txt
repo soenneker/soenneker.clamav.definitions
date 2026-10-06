@@ -1,0 +1,4 @@
+Official ClamAV virus databases
+Database service: https://database.clamav.net/
+Database documentation: https://docs.clamav.net/faq/faq-cvd.html
+Updated with the official FreshClam client.
